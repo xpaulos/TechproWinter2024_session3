@@ -34,19 +34,40 @@ function Board({ xIsNext, squares, onPlay }) {
     <>
       <>
         <div className="board-row">
-          <button>1</button>
-          <button>2</button>
-          <button>3</button>
+          <button>01</button>
+          <button>02</button>
+          <button>03</button>
+          <button>04</button>
+          <button>05</button>
+          <button>06</button>
+          <button>07</button>
+          <button>08</button>
+          <button>09</button>
+          <button>10</button>
         </div>
         <div className="board-row">
-          <button>4</button>
-          <button>5</button>
-          <button>6</button>
+          <button>11</button>
+          <button>12</button>
+          <button>13</button>
+          <button>14</button>
+          <button>15</button>
+          <button>16</button>
+          <button>17</button>
+          <button>18</button>
+          <button>19</button>
+          <button>20</button>
         </div>
         <div className="board-row">
-          <button>7</button>
-          <button>8</button>
-          <button>9</button>
+          <button>21</button>
+          <button>22</button>
+          <button>23</button>
+          <button>24</button>
+          <button>25</button>
+          <button>26</button>
+          <button>27</button>
+          <button>28</button>
+          <button>29</button>
+          <button>30</button>
         </div>
       </>
     </>
@@ -74,7 +95,7 @@ export default function Game() {
     if (move > 0) {
       description = "Go to move #" + move;
     } else {
-      description = "Go to game start";
+      description = "Pull request Demo";
     }
     return (
       <li key={move}>
