@@ -54,17 +54,12 @@ function Board({ xIsNext, squares, onPlay }) {
           <button>16</button>
           <button>17</button>
           <button>18</button>
-<<<<<<< HEAD
           <button>Kisses from Theo</button>
           <button>20</button>
-=======
-          <button>19</button>
-          <button>Spithas</button>
->>>>>>> e082c330f0578293d669a197e0e62ece49f6f6fc
         </div>
         <div className="board-row">
           <button>21</button>
-          <button>22</button>
+          <button>Tasioudis Yusurum</button>
           <button>23</button>
           <button>24</button>
           <button>25</button>
