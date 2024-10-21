@@ -42,7 +42,7 @@ function Board({ xIsNext, squares, onPlay }) {
           <button>06</button>
           <button>07</button>
           <button>08</button>
-          <button>09</button>
+          <button>darko</button>
           <button>10</button>
         </div>
         <div className="board-row">
