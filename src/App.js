@@ -54,7 +54,7 @@ function Board({ xIsNext, squares, onPlay }) {
           <button>16</button>
           <button>17</button>
           <button>18</button>
-          <button>19</button>
+          <button>Kisses from Theo</button>
           <button>20</button>
         </div>
         <div className="board-row">
