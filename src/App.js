@@ -68,6 +68,13 @@ function Board({ xIsNext, squares, onPlay }) {
           <button>28</button>
           <button>29</button>
           <button>30</button>
+          <button>31</button>
+          <button>32</button>
+          <button>33</button>
+          <button>34</button>
+          <button>35</button>
+          <button>36</button>
+          <button>37</button>
         </div>
       </>
     </>
