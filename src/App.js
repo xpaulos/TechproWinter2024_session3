@@ -60,7 +60,7 @@ function Board({ xIsNext, squares, onPlay }) {
         <div className="board-row">
           <button>21</button>
           <button>Tasioudis was here</button>
-          <button>23</button>
+          <button>PAOOOOOOOOOOOOOOOOOOK</button>
           <button>24</button>
           <button>25</button>
           <button>26</button>
