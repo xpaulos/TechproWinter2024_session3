@@ -42,7 +42,7 @@ function Board({ xIsNext, squares, onPlay }) {
           <button>Serenity</button>
           <button>07</button>
           <button>08</button>
-          <button>09</button>
+          <button>darko</button>
           <button>10</button>
         </div>
         <div className="board-row">
@@ -58,10 +58,13 @@ function Board({ xIsNext, squares, onPlay }) {
           <button>20</button>
         </div>
         <div className="board-row">
+
+          <button>2button1</button>
+          <button>Tasioudis was hereeeee</button>
+          <button>PAOOOOOOOOOOOOOOOOOOK</button>
           <button>21</button>
           <button>Tasioudis Yusurum</button>
           <button>23</button>
->>>>>>> c2dd1341314eb15215646e22f76e23a82dcc36a6
           <button>24</button>
           <button>25</button>
           <button>26</button>
@@ -71,7 +74,7 @@ function Board({ xIsNext, squares, onPlay }) {
           <button>30</button>
           <button>31</button>
           <button>32</button>
-          <button>33</button>
+          <button>konnyd_</button>
           <button>34</button>
           <button>35</button>
           <button>36</button>
