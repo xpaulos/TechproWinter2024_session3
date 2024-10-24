@@ -77,7 +77,7 @@ function Board({ xIsNext, squares, onPlay }) {
           <button>konnyd_</button>
           <button>34</button>
           <button>35</button>
-          <button>36</button>
+          <button>36Giorgos Karagiannis</button>
           <button>38</button>
         </div>
       </>
