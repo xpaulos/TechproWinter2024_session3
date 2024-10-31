@@ -36,7 +36,7 @@ on:
 
 env:
   PROJECT_ID: 'mystudyongcp' # TODO: update to your Google Cloud project ID
-  REGION: 'us-central1' # TODO: update to your region
+  REGION: 'global' # TODO: update to your region
   SERVICE: 'techprowinter2024-session3-00001-lls' # TODO: update to your service name
   WORKLOAD_IDENTITY_PROVIDER: 'https://console.cloud.google.com/active-assist/details/projects/961687689660/locations/global/insightTypes/google.iam.policy.Insight/insights/370e6e6b-5863-465f-ac5e-8bb3e38057b4;source=webSubtask?project=961687689660' # TODO: update to your workload identity provider
 
